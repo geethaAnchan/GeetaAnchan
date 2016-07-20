@@ -1,7 +1,7 @@
 {
   "features" : [ "case-exchange" ],
   "adapter" : "SAW",
-  "name" : "UAT28 Mapping File",
+  "name" : "UAT30 Mapping File Test",
   "description" : "",
   "files" : [ ],
   "id" : "uat28",
