@@ -1,0 +1,10 @@
+{
+  "features" : [ "case-exchange" ],
+  "adapter" : "SAW",
+  "name" : "UAT28 Mapping File",
+  "description" : "",
+  "files" : [ ],
+  "id" : "uat28",
+  "uploadTime" : "2016-06-22T01:34:18-0600",
+  "version" : "2016-06-22"
+}
